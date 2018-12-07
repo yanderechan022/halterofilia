@@ -1,0 +1,178 @@
+body {
+
+	background:url('fondo.png') no-repeat;
+	background-size: 100vw  100vh;
+	background-attachment: fixed;
+	margin:0;
+	margin-size:cover;
+	
+}
+
+ul{
+	width: 960px;
+	left: 10px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+ul li{
+	list-style: none;
+}
+ul li img{
+	background-size: cover;
+	border-radius: 6px;
+	left: 10px;
+	opacity: 0.6;
+	width: 200px;
+	height: 200px;
+	-webkit-transition:all .6s  ease;
+	-moz-transition:all .1s ease;
+
+
+}
+
+ul li img:hover{
+	opacity:  1;
+	border-radius: 200px;
+	-webkit-transform:scale(1.2) rotate(360deg);
+    -moz-transition:all 1s rotate(360deg);
+	box-shadow: 0px 0px 20px #ddd;
+
+}
+
+
+.panel-body{
+
+	position:center;
+  	display:block;
+	left:500px;
+    right:100px;  
+    bottom:850px;
+    padding-top: 450px;
+	font-family: sans-serif;
+	font-weight: bold;
+	width:500px;
+	top:250px;
+	height:400px;
+	font-size: 20px;
+	background-color:transparent;
+	color :#050506;
+	margin: 0 0 20px;
+	padding:6px;
+	border-color:#000000;
+	
+	border-radius: 30px 30px 30px 30px;
+	border: 1px solid #FFFFFF;
+}
+
+
+.btn.btn-principally{ 
+position: relative;
+background-color:#49a0dc;
+font-size: white;
+text-align: center;
+width:400px;
+left: center;
+size: 200px;
+bottom: 50px;
+height:40px;
+border-color: blue;
+margin-top:90px;
+border-radius: 4px;
+font:bold 19px Calibri;
+font-size:bold 19px white;
+text-decoration:none;
+font-color:#000000;
+
+}
+h1{
+	position: auto;
+	color:white;
+	font: calibri;
+	font-size:bold 19px white;
+	left: 400px;
+	width: 500px;
+}
+.btn.btn-primary{ 
+position: relative;
+text-align: center;
+width: 300px;
+left: auto;
+bottom: 130px;
+size: 100px;
+height:40px;
+margin-top:90px;
+border-radius: 4px;
+font:bold 19px Calibri;
+text-decoration:none;
+color:black;
+background: white;
+
+}
+.btn.btn-primary:hover{
+	background:#F2F2F2;
+	color:#0489B1;
+}
+
+.btn.btn-secundary{ 
+position: relative;
+text-align: center;
+width: 300px;
+left: auto;
+bottom: 230px;
+size: 100px;
+height:40px;
+margin-top:90px;
+border-color: blue;
+border-radius: 4px;
+font:bold 19px calibri;
+text-decoration:none;
+color:black;
+background: white;
+}
+.btn.btn-secundary:hover{
+	background:#F2F2F2;
+	color:#0489B1;
+}
+
+
+.btn.btn-entrenadores{ 
+position: relative;
+text-align: center;
+width: 300px;
+left: auto;
+bottom: 330px;
+size: 100px;
+height:40px;
+margin-top:90px;
+border-color:blue;
+border-radius: 4px;
+font:bold 19px calibri;
+text-decoration:none;
+color:black;
+background: white;
+}
+#entre:hover{
+	background:#F2F2F2;
+	color:#0489B1;
+}
+.btn.btn-quaternary{ 
+position: relative;
+text-align: center;
+width: 300px;
+left: auto;
+bottom: 430px;
+size: 100px;
+height:40px;
+margin-top:90px;
+border-color: blue;
+border-radius: 4px;
+font:bold 19px Calibri;
+text-decoration:none;
+color:black;
+background: white;
+}
+#menu:hover{
+	background:#F2F2F2;
+	color:#0489B1;
+}

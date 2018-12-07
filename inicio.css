@@ -1,0 +1,13 @@
+body{ background-color: #030303; }
+
+.rounded-circle{ width: 200px; height: 110px; vertical-align: middle;
+ border-style: none; margin-top: 25px   }
+.nav-tabs{ float: right;font-family: calibri; font-size: 20px;margin-right: 35px;
+margin-top: 25px;   }
+
+img{ height: 600px; }
+
+.card-text{ font-family: calibri; font-size: 19px; }
+.card-img-top{ height: 200px; }
+.card{ margin-top: 35px; width: 340px; height: 460px; }
+.w-100{ margin-top: 25px; border:none ; border-radius: 20px;}

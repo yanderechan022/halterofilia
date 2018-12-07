@@ -1,0 +1,369 @@
+body {
+	background-color: #fbfcfc;
+	background-size: 100vw  100vh;
+	background-attachment: fixed;
+	margin:0;
+	margin-size:cover;
+	
+}
+
+
+body {
+
+	background:url('fondo.png') no-repeat;
+	background-size: 100vw  100vh;
+	background-attachment: fixed;
+	margin:0;
+	margin-size:cover;
+	overflow: hidden;
+	margin-size:cover;
+	font-family: calibri;
+	
+}
+.ca{
+
+	width: 80px;
+	margin-left: 10px;
+	margin-top: 1px;
+	float: left;
+}
+
+.imageh{ 1
+	position: absolute;
+    width:80PX;
+    right: 150px;
+    left: 50px;
+    top:30px; 
+}
+
+
+/*.usuario{
+position:absolute; 
+text-align:2px;
+left: 770px;
+font-size: 18px;
+font-weight: bold;
+width:140px;
+height:60px;
+top:260px;
+color :#050506;
+margin: 0 0 30px;
+padding: 1px;
+border-color:#ffffff;
+background-color: #6699FF;
+border-radius: 20px 20px 20px 20px;
+border: 1px solid #5878ca;
+background: linear-gradient(#00FFFF,#000080)
+
+}
+
+.contrasena{
+position: absolute;
+text-align:2px;
+left: 770px;
+font-size:18px;
+font-weight: bold;
+width:140px;
+height:60px;
+top:440px;
+color :#050506;
+margin: 0 0 30px;
+padding: 1px;
+border-color:#ffffff;
+background-color: #6699FF;
+border-radius: 20px 20px 20px 20px;
+border: 1px solid #5878ca;
+background: linear-gradient(#00FFFF,#000080)
+
+}
+*/
+
+
+header{
+ 
+	color: #fbfcfc;
+	width: 880px;
+    padding: 50px 0px 30px 20px;
+    background-position: center;
+    height: 0px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    text-align: center;
+}
+label{
+	color: #000000 ;
+	font:bold 19px Calibri;
+	
+}
+
+h2{
+color:#FFFFFF;
+font:bold 19px Calibri;
+}
+
+h4{
+color:#FFFFFF;
+font:bold 19px Calibri;
+}
+
+h5{
+	color:#FFFFFF;
+font:bold 19px Calibri;
+}
+.reg{
+
+	color:#FFFFFF;
+	font:bold 19px Calibri;
+}
+.caja {
+	position: absolute;
+	display:block;
+	opacity: 0.7;
+	left:900px;
+    right:800px;  
+    bottom:650px;
+	font-family: sans-serif;
+	font-weight: bold;
+	width:400px;
+	top:230px;
+	height:400px;
+	font-size: 20px;
+	background: transparent;
+	color :#050506;
+	margin: 0 0 20px;
+	padding:6px;
+	border-color:#FFFFFF;
+	background-color:#FFFFFF;
+	border-radius: 30px 30px 30px 30px;
+	border: 3px solid #FFFFFF;
+	float: center;
+
+    
+}
+
+
+a{
+		color:  #e74c3c ;
+		font:bold 19px Calibri;
+}
+p{
+font:bold 19px Calibri;
+	color: black ;
+}
+
+.cerrar{
+color:  #FFFFFF ;
+font:bold 19px Calibri;
+}
+
+
+
+.logo{
+
+	width: 430px;
+}
+.cajar {
+	position: absolute;
+	display:block;
+	float: center;
+	opacity: 0.7;
+	left:980px;
+    right:800px;  
+    bottom:650px;
+	font-family: calibri;
+	font-weight: bold;
+	width:380px;
+	top:130px;
+	height:450px;
+	font-size: 20px;
+	background: transparent;
+	color :#050506;
+	margin: 0 0 20px;
+	padding:40px;
+	border-color:#FFFFFF;
+	border-radius: 40px 40px 40px 40px;
+	border: 7px solid #FFFFFF;
+background-color:#FFFFFF;
+	}
+
+	.cajac {
+	position: absolute;
+	display:block;
+	float: center;
+	opacity: 0.7;
+	left:980px;
+    right:800px;  
+    bottom:650px;
+	font-family: calibri;
+	font-weight: bold;
+	width:380px;
+	top:250px;
+	height:450px;
+	font-size: 20px;
+	background: transparent;
+	color :#050506;
+	margin: 0 0 20px;
+	padding:40px;
+	border-color:#FFFFFF;
+	border-radius: 40px 40px 40px 40px;
+	border: 7px solid #FFFFFF;
+background-color:#FFFFFF;
+	}
+.iden{
+
+	float: left;
+	font-size:19px;
+  
+}
+.nom{
+padding-top: 30px;
+	float: left;
+	font-size:19px;
+    
+}
+
+.fec{
+padding-top: 30px;
+	float: left;
+    font-size:19px;
+}
+
+.pas{
+	float: left;
+padding-top: 30px;
+	font-size:19px;
+}
+
+.mail{
+padding-top: 30px;
+	float: left;
+	font-size:19px;
+}
+
+.cpas{
+padding-top: 30px;
+	float: left;
+	font-size:19px;
+}
+.mensaje{
+padding-top: 30px;
+	float: left;
+	font-size:19px;
+}
+
+.bt{
+	padding-top: 30px;
+	float: left;
+	font-size:19px;
+}
+
+.usu{
+
+	float: left;
+	font-size:19px;
+	margin-left: 60px;
+
+}
+
+.contrasena{
+
+	padding-top: 30px;
+	float: left;
+	font-size:19px;
+	margin-left: 60px;
+}
+.submit{
+padding-top: 30px;
+	float: left;
+	font-size:19px;
+	margin-left: 80px;
+}
+
+.tex{
+
+	padding-top: 30px;
+	margin-top: 50px;
+	font-size:19px;
+
+}
+
+.id,.nomb,.fecha,.mai,.pass,.cpass{
+
+	color:  black;
+	font-family: calibri;
+	font-size: 20px;
+}
+.m,.ni,.cp,.p,.f,.n{
+
+	color: black;
+	font-family: calibri;
+	font-size: 15px;
+}
+
+.mens{
+color: black;
+	font-family: calibri;
+	font-size: 15px;
+	height: 150px;
+
+width: 300px;
+
+}
+.fecha{
+
+	margin-left: 10px;
+}
+.limpiar{
+margin: 0 auto;
+text-align:2px;
+left: 770px;
+font-size:18px;
+font-weight: bold;
+top:440px;
+color :#050506;
+margin: 0 0 30px;
+padding: 1px;
+float: left;
+margin-left: 70px;
+}
+
+.registrar{
+
+margin: 0 auto;
+text-align:2px;
+left: 770px;
+font-size:18px;
+font-weight: bold;
+color :#050506;
+margin: 0 0 30px;
+float: left;
+}
+.enviar{
+width: 100px;
+height: 30px;
+}
+.cont{
+margin: 0 auto;
+text-align:2px;
+left: 770px;
+font-size:18px;
+font-weight: bold;
+color :#050506;
+margin: 0 0 30px;
+float: left;
+margin-left: 70px;
+}
+
+}
+.lo{
+margin-left: 10px;
+	width: 170px;
+	height: 30px;
+}
+.ctex{
+position: absolute;
+margin-left: 380px;	
+font-size: 100px;
+font-family: calibri;
+margin-top: 1px;
+}
